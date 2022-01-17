@@ -1,0 +1,15 @@
+how_many_rounds 3000
+how_many_robs_on_start 100
+starting_energy 300
+how_much_energy_food_gives 10
+how_long_does_food_grow 4
+round_cost 4
+duplication_probability 0.01
+parents_energy_fraction 0.4
+duplication_limit 2
+starting_program l
+how_often_to_print 200
+probability_of_removing_instr 0.5
+probability_of_adding_instr 0.5
+probability_of_changing_instr 0.5
+valid_instructions lpiwj
